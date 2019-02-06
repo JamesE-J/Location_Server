@@ -1,0 +1,21 @@
+G:\2016-2017\08241\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\Marlin Seabass\Documents\Uni Work\08241\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\Marlin Seabass\Documents\Uni Work\08241\ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\Marlin Seabass\Documents\Uni Work\08241\ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\Marlin Seabass\Documents\Uni Work\08241\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\Marlin Seabass\Documents\Uni Work\08241\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\Marlin Seabass\Documents\Uni Work\08241\ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+G:\2016-2017\08240\ACW-home\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\2016-2017\08240\ACW-home\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\2016-2017\08240\ACW-home\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\2016-2017\08240\ACW-home\ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\2016-2017\08240\ACW-home\ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\2016-2017\08240\ACW-home\ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+G:\2016-2017\08241\ACW-home\ACW\locationserver\locationserver\bin\Debug\locationserver.exe.config
+G:\2016-2017\08241\ACW-home\ACW\locationserver\locationserver\bin\Debug\locationserver.exe
+G:\2016-2017\08241\ACW-home\ACW\locationserver\locationserver\bin\Debug\locationserver.pdb
+G:\2016-2017\08241\ACW-home\ACW\locationserver\locationserver\obj\Debug\locationserver.csprojResolveAssemblyReference.cache
+G:\2016-2017\08241\ACW-home\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\2016-2017\08241\ACW-home\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
+G:\2016-2017\08241\ACW\locationserver\locationserver\obj\Debug\locationserver.exe
+G:\2016-2017\08241\ACW\locationserver\locationserver\obj\Debug\locationserver.pdb
